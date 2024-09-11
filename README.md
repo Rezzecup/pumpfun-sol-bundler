@@ -83,7 +83,7 @@ Begin by leveraging the intuitive user interface to configure the buyers and ali
 
 ### Step 2: Initiate the Bundling Process
 
-Once setup is complete, initiate the bundling process. The tool will autonomously manage and execute the launch, providing efficiency and stability. Trust in its automation to handle complex tasks, thus making the launch process seamless and effective.
+Once setup is complete, initiate the bundling process. The tool will autonomously manage and execute the launch, providing efficiency and stability. Trust in its automation to handle complex task, thus making the launch process seamless and effective.
 
 ### Step 3: Realize Profit
 
