@@ -1,8 +1,8 @@
-# Pump.Fun Bundler: The Premier Solution for Seamless Token Launches
+# Pump.Fun Bundler: The Solution for Seamless Token Launches
 
 ## Overview
 
-The **Pump.Fun Bundler** elevates your token launch experience with its open-source, free, and efficient self-bundling script. Specifically engineered for the Pump.Fun platform, this tool facilitates launching a token with 15 distinct wallets and profiles, ensuring launches are bubble maps-proof and resilient against Photon SB marks.
+The **Pump.Fun Bundler** elevates your token launch experience with its open-source, free, and efficient self-bundling script. Specifically engineered for the Pump.Fun platform, this tool facilitates launching a token with 15 distinct wallets and profiles, ensuring launches are bubble maps-proof and resilient against Photon.
 
 ## Key Features
 
