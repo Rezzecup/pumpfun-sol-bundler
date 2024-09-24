@@ -11,7 +11,7 @@ The **Pump.Fun Bundler** elevates your token launch experience with its open-sou
 - **Dynamic Profile Generation:** Automatically create diverse profiles for each wallet, lending authenticity through random token allocations.
 
 **Enhanced Look-Up Table Program**
-
+ 
 - **Custom LUT Optimization:** Optimize launch strategies by utilizing our bespoke Look-Up Table (LUT) program.
 
 **Intuitive User Interface**
